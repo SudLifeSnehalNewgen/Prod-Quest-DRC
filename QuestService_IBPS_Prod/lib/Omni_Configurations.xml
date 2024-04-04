@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- ===================================================================== -->
+<!--  OmniDocs Server Configuration                                        -->
+<!-- ===================================================================== -->
+<PathInfo>
+	<Location>
+		<Name>Omni_Config_Location</Name>
+		<Path>C:\NiteshWorkSpace\Signature_Download_Utility</Path>
+	</Location>
+</PathInfo>
